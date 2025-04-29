@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+👋 Hi, I'm Elyon, an aspiring Software Engineer.
 <!--
 **Jermil2990/Jermil2990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
