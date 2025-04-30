@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on building UX projects in my free time
 🌱 I’m currently learning how to manage my time and trust God
-💬 Ask me about Roblox!!
+💬 Ask me about Roblox!
 ⚡ Fun fact- I'm an identical twin 
 
 <!--
