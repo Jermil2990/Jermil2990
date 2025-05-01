@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 ## Hi there! 👋
 
 👋 Hi, I'm Jerrick, an aspiring Front-end Software Engineer.
