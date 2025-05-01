@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./Github-Header-Art-01.png)
 ## Hi there! 👋
 
 👋 Hi, I'm Jerrick, an aspiring Front-end Software Engineer.
