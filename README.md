@@ -1,7 +1,7 @@
 ![Header](./Github-Header-Art-01.png)
 # Hi there, I'm Jerrick! 👋
 
-I’m a **software engineer**, **UX designer**, and **game developer** at LSU passionate about using technology to design meaningful, user-focused experiences.
+I’m a **Software engineer**, **UX designer**, and **game developer** at LSU passionate about using technology to design meaningful, user-focused experiences.
 
 & *Computer science student at LSU minoring in Digital Media Arts*
 
