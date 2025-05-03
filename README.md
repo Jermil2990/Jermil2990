@@ -1,5 +1,5 @@
 ![Header](./Github-Header-Art-01.png)
-## Hi there! 👋
+# Hi there! 👋
 
 👋 Hi, I'm Jerrick, an aspiring Front-end Software Engineer.
 
