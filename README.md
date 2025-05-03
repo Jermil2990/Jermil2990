@@ -1,13 +1,21 @@
 ![Header](./Github-Header-Art-01.png)
-# Hi there! 👋
+# Hi there, I'm Jerrick! 👋
 
-👋 Hi, I'm Jerrick, an aspiring Front-end Software Engineer.
+I’m a **software engineer**, **UX designer**, and **game developer** at LSU passionate about using technology to design meaningful, user-focused experiences.
 
-- 🔭 I’m currently working on building UX projects in my free time
+Computer science student at LSU minoring in Digital Media Arts
+Treasurer at Google Developers Student Club @ LSU
+Designer on Roblox 
+
+I am passionate about using technology to design meaningful, user-focused experiences. For me, 'Build your tomorrow' means using technology thoughtfully – focusing on creating user-centered solutions (UX + SE!), constantly learning, and aiming to build things that help connect and uplift others. It's about progress, not perfection, and making a positive contribution, one step at a time.
+More than the technical challenge, I'm driven by the potential I see in technology to foster connection and uplift communities. I know I have a lot to learn, but I approach problem-solving with determination and a genuine desire to create solutions that truly put people first. For me, integrity is key. Following my personal motto, **'Build your tomorrow,'** I'm actively seeking opportunities to learn from others, contribute meaningfully, and use my growing skills to help build a better, more connected world, one step at a time. Let’s connect and do something great!
+
+- 🔭 I’m currently exploring the intersection of UX design and creative impact
 - 🌱 I’m currently learning how to manage my time and trust God
 - 💬 Ask me about Roblox!
-- ⚡ Fun fact- I'm an identical twin 
 
+## Featured Projects
+**CP Games** - a website for the company Sea Monster Crowdfunding that displays information about the games they have funded designed for CodePath
 <!--
 **Jermil2990/Jermil2990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
