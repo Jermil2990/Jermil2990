@@ -1,6 +1,6 @@
 ![Header](./Github-Header-Art-01.png)
 
-# Hi there, I'm Jerrick! 👋
+# Hi, I'm Jerrick! 👋
 
 I’m a **Software engineer**, **UX designer**, and **Game developer** at LSU passionate about using technology to design meaningful, user-focused experiences.
 
@@ -13,7 +13,7 @@ More than the technical challenge, I'm driven by the potential I see in technolo
 
 - 🔭 I’m currently exploring the intersection of UX design and creative impact  
 - 🌱 I’m currently learning how to manage my time and trust God
-- 💬 Ask me about Roblox!
+- 💬 Creating new ideas for games on Roblox
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
