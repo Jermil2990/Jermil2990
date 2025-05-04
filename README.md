@@ -3,7 +3,7 @@
 
 I’m a **Software engineer**, **UX designer**, and **Game developer** at LSU passionate about using technology to design meaningful, user-focused experiences.
 
-<img align="right" src="./ASPIRE-STICKER.png" alt="Header" width="25%"/>
+<img align="right" src="./ASPIRE-STICKER.png" alt="Header" width="35%"/>
 
 & *Computer science student at LSU minoring in Digital Media Arts*
 
@@ -14,7 +14,7 @@ I’m a **Software engineer**, **UX designer**, and **Game developer** at LSU pa
 I am passionate about using technology to design meaningful, user-focused experiences. For me, 'Build your tomorrow' means using technology thoughtfully – focusing on creating user-centered solutions (UX + SE!), constantly learning, and aiming to build things that help connect and uplift others. It's about progress, not perfection, and making a positive contribution, one step at a time.
 More than the technical challenge, I'm driven by the potential I see in technology to foster connection and uplift communities. I know I have a lot to learn, but I approach problem-solving with determination and a genuine desire to create solutions that truly put people first. For me, integrity is key. Following my personal motto, **'Build your tomorrow,'** I'm actively seeking opportunities to learn from others, contribute meaningfully, and use my growing skills to help build a better, more connected world, one step at a time. Let’s connect and do something great!
 
-<img align="right" src="./ASPIRE-STICKER.png" alt="Header" width="25%"/>
+
 
 - 🔭 I’m currently exploring the intersection of UX design and creative impact  
 - 🌱 I’m currently learning how to manage my time and trust God
