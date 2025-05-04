@@ -13,8 +13,6 @@ More than the technical challenge, I'm driven by the potential I see in technolo
 - 🔭 I’m currently exploring the intersection of UX design and creative impact  
 - 🌱 I’m currently learning how to manage my time and trust God
 - 💬 Ask me about Roblox!
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jermil2990)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Featured Projects
 :video_game:**CP Games** - a website for the company Sea Monster Crowdfunding that displays information about the games they have funded designed for CodePath
