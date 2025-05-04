@@ -19,7 +19,7 @@ More than the technical challenge, I'm driven by the potential I see in technolo
 ![Header](./ASPIRE-STICKER.png)
 <img src="./ASPIRE-STICKER.png" alt="Header" width="50%"/>
 
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="vertical-align: top;">
       🔭 I’m currently exploring the intersection of UX design and creative impact
