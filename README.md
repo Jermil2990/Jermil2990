@@ -19,6 +19,27 @@ More than the technical challenge, I'm driven by the potential I see in technolo
 ![Header](./ASPIRE-STICKER.png)
 <img src="./ASPIRE-STICKER.png" alt="Header" width="50%"/>
 
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      🔭 I’m currently exploring the intersection of UX design and creative impact
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      🌱 I’m currently learning how to manage my time and trust God
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 35px; padding-right: 5px; vertical-align: top;"> 
+      <img src="./ASPIRE-STICKER.png" alt="ASPIRE icon" width="25"/> 
+    </td>
+    <td style="vertical-align: top;">
+       💬 Ask me about Roblox!
+    </td>
+  </tr>
+  </table>
+
 ## Featured Projects
 **CP Games** - a website for the company Sea Monster Crowdfunding that displays information about the games they have funded designed for CodePath
 <!--
