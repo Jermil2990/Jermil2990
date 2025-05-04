@@ -29,6 +29,7 @@ More than the technical challenge, I'm driven by the potential I see in technolo
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
+
 ## Featured Projects
 :video_game:**CP Games** - a website for the company Sea Monster Crowdfunding that displays information about the games they have funded designed for CodePath
 <!--
