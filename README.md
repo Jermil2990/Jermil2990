@@ -3,6 +3,8 @@
 
 I’m a **Software engineer**, **UX designer**, and **Game developer** at LSU passionate about using technology to design meaningful, user-focused experiences.
 
+<img align="right" src="./ASPIRE-STICKER.png" alt="Header" width="25%"/>
+
 & *Computer science student at LSU minoring in Digital Media Arts*
 
 & *Treasurer at Google Developers Student Club @ LSU*
