@@ -1,15 +1,6 @@
 ![Header](./Github-Header-Art-01.png)
 # Hi there, I'm Jerrick! 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Jermil2990&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 I’m a **Software engineer**, **UX designer**, and **Game developer** at LSU passionate about using technology to design meaningful, user-focused experiences.
 
 <img align="right" src="./ASPIRE-STICKER.png" alt="Header" width="35%"/>
