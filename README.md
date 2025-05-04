@@ -44,6 +44,8 @@ More than the technical challenge, I'm driven by the potential I see in technolo
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jermil2990&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ## Featured Projects
 :video_game:**CP Games** - a website for the company Sea Monster Crowdfunding that displays information about the games they have funded designed for CodePath
 <!--
