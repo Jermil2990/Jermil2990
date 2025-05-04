@@ -15,6 +15,7 @@ More than the technical challenge, I'm driven by the potential I see in technolo
 - 🔭 I’m currently exploring the intersection of UX design and creative impact
 - 🌱 I’m currently learning how to manage my time and trust God
 - 💬 Ask me about Roblox!
+  
 ![Header](./ASPIRE-HD-STICKER.png)
 
 ## Featured Projects
