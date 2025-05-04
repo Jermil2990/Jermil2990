@@ -31,11 +31,12 @@ More than the technical challenge, I'm driven by the potential I see in technolo
     </td>
   </tr>
   <tr>
+    <td>
+        <td style="vertical-align: top;">
+       💬 Ask me about Roblox!
+    </td>
     <td style="width: 35px; padding-right: 5px; vertical-align: top;"> 
       <img src="./ASPIRE-STICKER.png" alt="ASPIRE icon" width="25"/> 
-    </td>
-    <td style="vertical-align: top;">
-       💬 Ask me about Roblox!
     </td>
   </tr>
   </table>
