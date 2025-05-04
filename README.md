@@ -12,7 +12,7 @@ More than the technical challenge, I'm driven by the potential I see in technolo
 
 
 - 🔭 I’m currently exploring the intersection of UX design and creative impact  
-- 🌱 I’m currently learning how to manage my time and trust God
+- 🌱 I’m currently learning how to manage my time and trust the process 
 - 💬 Creating new ideas for games on Roblox
 
 
