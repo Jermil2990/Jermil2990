@@ -13,6 +13,7 @@ I am passionate about using technology to design meaningful, user-focused experi
 More than the technical challenge, I'm driven by the potential I see in technology to foster connection and uplift communities. I know I have a lot to learn, but I approach problem-solving with determination and a genuine desire to create solutions that truly put people first. For me, integrity is key. Following my personal motto, **'Build your tomorrow,'** I'm actively seeking opportunities to learn from others, contribute meaningfully, and use my growing skills to help build a better, more connected world, one step at a time. Let’s connect and do something great!
 
 <img align="right" src="./ASPIRE-STICKER.png" alt="Header" width="50%"/>
+
 - 🔭 I’m currently exploring the intersection of UX design and creative impact  
 - 🌱 I’m currently learning how to manage my time and trust God
 - 💬 Ask me about Roblox!
