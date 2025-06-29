@@ -32,6 +32,8 @@ More than the technical challenge, I'm driven by the potential I see in technolo
 
 ## Featured Projects
 :video_game:**CP Games** - a website for the company Sea Monster Crowdfunding that displays information about the games they have funded designed for CodePath
+
+**StackedUP** - website for university students looking for opprotunities/internships in software engineering!
 <!--
 **Jermil2990/Jermil2990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
