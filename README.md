@@ -2,7 +2,7 @@
 
 # Hi, I'm Jerrick! 👋
 
-I’m a **Software Engineer**, **UX designer**, and **Game developer** at LSU passionate about using technology to design meaningful, user-focused experiences.
+I’m a **Software Engineer**, **UX designer**, and **Game developer** passionate about using technology to design meaningful, user-focused experiences.
 
 <img align="right" src="./ASPIRE-STICKER.png" alt="Header" width="35%"/>
 
